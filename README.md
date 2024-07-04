@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sairajmagdum
 - 👀 I’m interested in gaming, sports,music.
-- 🌱 I’m currently learning programming related stuff.
+- 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
