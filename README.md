@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sairaj  
+# 👋 Hi, I’m Sairaj  
 - 👀 I’m interested in Web dev  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sairaj-magdum-06ab032b7)  
 - 😄 Pronouns: He/Him 
